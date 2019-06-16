@@ -1,4 +1,4 @@
-# Stock Price Prediction on Turkey Stock Index BIST100 :fire: 
+# Stock Price Prediction on Turkish Stock Index BIST100 :fire: 
 - Practising RNN modals. Predicting stock price trends of BIST100 from 22 October 2017 to 22 April 2018.  :chart_with_upwards_trend: :chart_with_downwards_trend:
 
 - 5 year period of training data taken from Yahoo finance website to train the LSTM recurrent neural network.
